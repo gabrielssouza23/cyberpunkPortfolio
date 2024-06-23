@@ -1,0 +1,8 @@
+.about-me {
+    display: flex;
+    flex-direction: column;
+    height: 100vh; /* Full viewport height */
+    gap: 15px;
+    padding: 20px;
+  }
+  
